@@ -1,0 +1,3 @@
+refers to:
+i.MXRT1050 project compiles but does not start, I2C issue(?)
+https://github.com/marcin-ch/rt1050_emwin/issues/1
