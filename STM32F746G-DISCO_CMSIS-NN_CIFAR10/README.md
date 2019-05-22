@@ -1,0 +1,1 @@
+refers to: [CMSIS-NN CIFAR10 example for STM32F746G-DISCO does not work?](https://github.com/ARM-software/ML-examples/issues/16)
